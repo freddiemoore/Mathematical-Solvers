@@ -25,7 +25,7 @@ def find_prime(n):
     print(list_primes[n-1])
     return list_primes[n-1]
 find_prime(n)
-print("this is a new edit")
+
 
 
 
