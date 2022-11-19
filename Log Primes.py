@@ -1,4 +1,4 @@
-#Need to revisit the objective here. Taken from "The art of computer programming" by Donald Knuth??
+#Need to revisit the objective here. Taken from "The art of computer programming" by Donald Knuth.
 
 print("Type input here:")
 n = int(input())
